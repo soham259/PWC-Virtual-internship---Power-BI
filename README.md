@@ -4,6 +4,10 @@
 
 You can view the certification here: [PwC Switzerland Power BI Certification](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/4sLyCPgmsy8DA6Dh3/a87GpgE6tiku7q3gu_4sLyCPgmsy8DA6Dh3_yx8rjH5MqdXE3Yo2o_1738249031830_completion_certificate.pdf)
 
+## 📚 Course Link
+
+You can access the course here: [PwC Switzerland Power BI Course link](https://www.theforage.com/simulations/pwc-ch/power-bi-cqxg)
+
 ## 📊 Project Overview
 
 This repository contains Power BI dashboards and documentation for analysing call centre trends, customer retention, and diversity & inclusion metrics at PwC Switzerland.
@@ -48,3 +52,6 @@ This repository contains Power BI dashboards and documentation for analysing cal
 1. Open `.pbix` files in Power BI Desktop.
 2. Connect to the provided dataset.
 3. Review and publish dashboards as needed.
+
+
+
