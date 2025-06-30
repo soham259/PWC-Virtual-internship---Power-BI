@@ -1,5 +1,9 @@
 # PwC Switzerland Power BI in Data Analytics
 
+## 🎓 Certification
+
+You can view the certification here: [PwC Switzerland Power BI Certification](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/4sLyCPgmsy8DA6Dh3/a87GpgE6tiku7q3gu_4sLyCPgmsy8DA6Dh3_yx8rjH5MqdXE3Yo2o_1738249031830_completion_certificate.pdf)
+
 ## 📊 Project Overview
 
 This repository contains Power BI dashboards and documentation for analysing call centre trends, customer retention, and diversity & inclusion metrics at PwC Switzerland.
@@ -36,7 +40,7 @@ This repository contains Power BI dashboards and documentation for analysing cal
 ## 📂 Files
 
 * `Task1_CallCentre.pbix`: Power BI file for Task 1
-* `Task2_curn.pbix`: Power BI file for Task 2
+* `Task2_Retention.pbix`: Power BI file for Task 2
 * `Task3_DiversityInclusion.pbix`: Power BI file for Task 3
 
 ## 🚀 Getting Started
