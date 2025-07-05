@@ -19,12 +19,20 @@ This repository contains Power BI dashboards and documentation for analysing cal
   * Calls by time of day
   * Average speed of answer
   * Agent performance (average handle time vs. calls answered)
+ 
+    ### 📊 Power BI Dashboard
+[🔗 View Power BI Dashboard](https://app.powerbi.com/groups/me/reports/fd8257d0-84ab-4cad-aca3-9916c3d5074b/ReportSection?experience=power-bi) 
+*(If link not working, download the report below for screenshots)*
 
 ### ✅ Task 2: Customer Retention
 
 * Define KPIs: retention rate, churn rate, average customer tenure, customer lifetime value, satisfaction vs churn risk
 * Create retention dashboard
 * Draft email to engagement partner with findings and suggestions
+
+  ### 📊 Power BI Dashboard
+[🔗 View Power BI Dashboard](https://app.powerbi.com/groups/me/reports/b9115ad0-cec2-48ef-b23a-1f699786cacc/ReportSectionc327fa2e323013809d59?experience=power-bi)
+*(If link not working, download the report below for screenshots)*
 
 ### ✅ Task 3: Diversity & Inclusion
 
@@ -36,6 +44,10 @@ This repository contains Power BI dashboards and documentation for analysing cal
   * % turnover
   * Average performance rating (men/women)
 * Build dashboard highlighting these KPIs
+
+  ### 📊 Power BI Dashboard
+[🔗 View Power BI Dashboard](https://app.powerbi.com/groups/me/reports/c65acdbf-aa55-41ea-a066-d784f3dd8499/ReportSection86bc6606665a843d3599?experience=power-bi) 
+*(If link not working, download the report below for screenshots)*
 
 ## 📂 Files
 
